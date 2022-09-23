@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.7;
+  background: #f1f5f9;
+}
+.section {
+  padding: 5rem 0;
+  background: #fff;
+}
+.section-title {
+  text-align: center;
+  text-transform: capitalize;
+  /* padding: 1rem 0; */
+}
+.title-underline {
+  width: 100px;
+  height: 5px;
+  background: skyblue;
+  margin: 0 auto;
+  margin-bottom: 2rem;
+}
+.section-center {
+  width: 90vw;
+  margin: 0 auto;
+  max-width: 1170px;
+}
